@@ -1,0 +1,6 @@
+@article{acuna2019Steal,
+title={Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations},
+author={Acuna, David and Kar, Amlan and Fidler, Sanja},
+booktitle={CVPR},
+year={2019}
+}
