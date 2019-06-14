@@ -1,7 +1,7 @@
 # STEAL
 This is the official inference code for:
 
-#### Devils Is in the Edges: Learning Semantic Boundaries from Noisy Annotations
+#### Devil Is in the Edges: Learning Semantic Boundaries from Noisy Annotations
 
 [David Acuna](http://www.cs.toronto.edu/~davidj/), [Amlan Kar](http://www.cs.toronto.edu/~amlan/), [Sanja Fidler](http://www.cs.toronto.edu/~fidler/)
 
