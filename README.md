@@ -52,7 +52,7 @@ cd STEAL
 
 This code requires PyTorch 0.4 and python 3+. Please install dependencies by
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 #### Download pretrained models
