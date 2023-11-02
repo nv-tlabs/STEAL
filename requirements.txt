@@ -1,6 +1,6 @@
 Cython==0.28.5
 cytoolz==0.9.0.1
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 pathos==0.2.2
 Pillow==5.4.1
 scikit-image==0.14.0
